@@ -4,3 +4,4 @@ pyvis
 numpy
 xlrd
 voila
+RISE
