@@ -3,5 +3,4 @@ networkx
 pyvis
 numpy
 xlrd
-voila
 RISE
