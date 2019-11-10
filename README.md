@@ -3,3 +3,7 @@
 
 Visualize synonyms and commonly confused words in an interactive network.
 Just click on the Binder logo to get started!
+
+![Binder & Visualizer Demo](demo/demo.gif)
+
+
